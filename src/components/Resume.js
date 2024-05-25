@@ -1,7 +1,7 @@
 import resume from  '../Assets/resume.jpg';
 function Resume(){
     const config={
-        link:"https://drive.google.com/file/d/1js-_GGBXST2E3njqNg7AEryPl4yTh_sO/view?usp=drive_link"
+        link:"https://drive.google.com/file/d/1l3Bjo17cpl0LodlL_BQdzaktLyBhw5ym/view?usp=drive_link"
     }
     return(<>
     <section className='flex flex-col md:flex-row bg-secondary' id='resume'>
